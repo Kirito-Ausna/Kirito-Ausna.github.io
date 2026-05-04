@@ -10,7 +10,8 @@ To realize this vision, \textbf{my road-map decomposes UMM into three aspects:} 
 huangyufei AT westlake.edu.cn / huangyufei AT zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?user=qmTjdwIAAAAJ&hl)
 
 ## News
-2026 Mar 4: I am seeking a research internship in Video World Models and Video Generation. Feel free to check my resume and contact me if interested.
+2026 Apr: Happy to join Tencent Hunyuan-MultiModal (HunyuanImage/Video) Pretrained Team as Qingyun Intern.
+2026 Mar: I am seeking a research internship in Video World Models and Video Generation. Feel free to check my resume and contact me if interested.
 2026 Feb 1: Finished my internship at ByteDance. "人生到处知何似，应是飞鸿踏雪泥。雪上偶然留趾爪，鸿飞那复计东西。“
 2026 Feb 20: One work accepted to CVPR 2026. 
 2026 Jan 26: Three works accepted to ICLR 2026. 
